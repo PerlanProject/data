@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ec56a60cba678082f14a41b1dfdbb7aa62d86a6085aafff012ebe062af800e5
-size 11990
+flight_number,flight_date,city,airport,takeoff_time_local,landing_time_local,duration,release_altitude_feet,maximum_altitude_feet,maximum_gps_altitude_feet,significance,pilot_front,pilot_rear,data_ac,data_uv,data_kml,data_adp,data_imu
+1,2015-09-23,"Redmond, OR",KRDM,818.0,851.0,0.6,8100.0,8100.0,,First Flight,Jim Payne,Morgan Sandercock,,,,,
+2,2016-01-15,"Minden, NV",KMEV,1307.0,1350.0,0.7,10800.0,10800.0,,flight testing,Jim Payne,Miguel Iturmendi,,,,,
+3,2016-01-15,"Minden, NV",KMEV,1420.0,1502.0,0.7,10700.0,10700.0,,,Jim Payne,Miguel Iturmendi,,,,,
+4,2016-01-27,"Minden, NV",KMEV,1423.0,1445.0,0.4,7600.0,7600.0,,,Jim Payne,,,,,,
+5,2016-01-27,"Minden, NV",KMEV,1525.0,1555.0,0.5,8700.0,8700.0,,,Jim Payne,,,,,,
+6,2016-01-27,"Minden, NV",KMEV,1635.0,1703.0,0.5,8700.0,8700.0,,,Jim Payne,,,,,,
+7,2016-02-13,"Minden, NV",KMEV,1541.0,1627.0,0.7,10700.0,10700.0,,,Jim Payne,Miguel Iturmendi,,,,,
+8,2016-02-13,"Minden, NV",KMEV,1702.0,1737.0,0.6,9500.0,9500.0,,,Jim Payne,Miguel Iturmendi,,,,,
+9,2016-02-28,"Minden, NV",KMEV,1553.0,1734.0,0.7,10700.0,10700.0,,,Jim Payne,,,,,,
+10,2016-03-21,"Minden, NV",KMEV,859.0,1001.0,1.0,9300.0,9300.0,,first with rebreather,Jim Payne,Tom Enders,,,,,
+11,2016-04-13,"Minden, NV",KMEV,1202.0,1253.0,0.8,10100.0,11400.0,,,Jim Payne,Miguel Iturmendi,,,,,
+12,2016-04-29,"Minden, NV",KMEV,1158.0,1223.0,0.4,9700.0,9700.0,,drogue test,Jim Payne,,,,,,
+13,2016-05-07,"Minden, NV",KMEV,1555.0,1608.0,0.2,6900.0,6900.0,,Enders demo,Jim Payne,Tom Enders,,,,,
+14,2016-05-11,"Minden, NV",KMEV,1126.0,1207.0,0.7,10700.0,10700.0,,,Jim Payne,Doug Perrenod,,,,,
+15,2016-05-14,"Minden, NV",KMEV,854.0,1013.0,1.3,9600.0,9600.0,,,Jim Payne,,,,,,
+16,2016-05-19,"Minden, NV",KMEV,721.0,825.0,1.1,9600.0,9600.0,,,Jim Payne,Tim Gardner,,,,,
+17,2016-05-20,"Minden, NV",KMEV,627.0,833.0,2.1,10000.0,20800.0,,pitch control rub,Jim Payne,Miguel Iturmendi,,,,,
+18,2016-06-16,"Minden, NV",KMEV,640.0,1022.0,3.7,10800.0,26300.0,,,Jim Payne,Tim Gardner,,,,,
+19,2016-09-09,El Calafate,SAWC,1633.0,1657.0,0.4,4100.0,4100.0,,first EC flight,Jim Payne,Miguel Iturmendi,http://localhost/data/Flights/0019/Flt0019AC.xlsx,,,,
+20,2016-09-11,El Calafate,SAWC,1209.0,1652.0,0.7,6700.0,6700.0,,flutter & TM check,Jim Payne,Tim Gardner,http://localhost/data/Flights/0020/Flt0020AC.xlsx,,,,
+21,2016-09-13,El Calafate,SAWC,1214.0,1401.0,1.8,11250.0,11600.0,,,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0021/Flt0021AC.xlsx,,http://localhost/data/Flights/0021/Flt0021.kml,,
+22,2016-09-18,El Calafate,SAWC,956.0,1208.0,2.2,12600.0,15250.0,,,Jim Payne,Miguel Iturmendi,http://localhost/data/Flights/0022/Flt0022AC.xlsx,,http://localhost/data/Flights/0022/Flt0022.kml,,
+23,2016-09-21,El Calafate,SAWC,1106.0,1605.0,5.0,10400.0,22250.0,,,Jim Payne,Miguel Iturmendi,http://localhost/data/Flights/0023/Flt0023AC.xlsx,,http://localhost/data/Flights/0023/Flt0023.kml,,
+24,2016-09-23,El Calafate,SAWC,1132.0,1437.0,3.1,11800.0,12329.0,,,Jim Payne,,http://localhost/data/Flights/0024/Flt0024AC.xlsx,,,,
+25,2016-09-25,El Calafate,SAWC,959.0,1033.0,0.6,6300.0,6300.0,,abort loose O2 hose,Jim Payne,Tim Gardner,http://localhost/data/Flights/0025/Flt0025AC.xlsx,,http://localhost/data/Flights/0025/Flt0025.kml,,
+26,2016-09-25,El Calafate,SAWC,1302.0,1440.0,1.6,10800.0,10800.0,,,Jim Payne,Tim Gardner,http://localhost/data/Flights/0026/Flt0025AC.xlsx,,http://localhost/data/Flights/0026/Flt0026.kml,,
+27,2017-04-11,"Minden, NV",KMEV,1140.0,1254.0,1.3,10000.0,12922.0,,,Jim Payne,,,,,,
+28,2017-04-22,"Minden, NV",KMEV,924.0,1239.0,3.3,10200.0,29843.0,,,Jim Payne,Tim Gardner,http://localhost/data/Flights/0028/Flt0028AC.xlsx,,,,
+29,2017-05-12,"Minden, NV",KMEV,830.0,1240.0,4.2,9300.0,30492.0,,new hatch indexing,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0029/Flt0029AC.xlsx,,,,
+30,2017-07-18,El Calafate,SAWC,1051.0,1133.0,0.7,6200.0,6200.0,,first Aero Boero tow,Jim Payne,Tim Gardner,http://localhost/data/Flights/0030/Flt0030AC.xlsx,,,,
+31,2017-07-24,El Calafate,SAWC,1346.0,1642.0,2.9,12800.0,20100.0,,,Jim Payne,Tim Gardner,http://localhost/data/Flights/0031/Flt0031AC.xlsx,,http://localhost/data/Flights/0031/Flt0031.kml,,
+32,2017-07-31,El Calafate,SAWC,1054.0,1526.0,4.5,10300.0,32579.0,,,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0032/Flt0032AC.xlsb,,http://localhost/data/Flights/0032/Flt0032.kml,,
+33,2017-08-03,El Calafate,SAWC,1254.0,1722.0,4.5,9700.0,32460.0,,,Jim Payne,Miguel Iturmendi,http://localhost/data/Flights/0033/Flt0033AC.xlsb,,http://localhost/data/Flights/0033/Flt0033.kml,,
+34,2017-08-14,El Calafate,SAWC,1006.0,1442.0,4.6,10300.0,33204.0,,,Jim Payne,Tim Gardner,http://localhost/data/Flights/0034/Flt0034AC.xlsb,,,,
+35,2017-08-19,El Calafate,SAWC,1218.0,1650.0,4.5,10300.0,22287.0,,,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0035/Flt0035AC.xlsb,,http://localhost/data/Flights/0035/Flt0035.kml,,
+36,2017-08-24,El Calafate,SAWC,1420.0,1744.0,3.4,12650.0,16958.0,,,Jim Payne,Miguel Iturmendi,http://localhost/data/Flights/0036/Flt0036AC.xlsb,,http://localhost/data/Flights/0036/Flt0036.kml,,
+37,2017-08-30,El Calafate,SAWC,1318.0,1412.0,0.9,6700.0,6700.0,,photo flight,Jim Payne,Tim Gardner,http://localhost/data/Flights/0037/Flt0037AC.xlsx,,http://localhost/data/Flights/0037/Flt0037.kml,,
+38,2017-09-03,El Calafate,SAWC,906.0,1544.0,6.6,10556.0,53955.0,52172.0,,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0038/Flt0038AC.xlsb,,http://localhost/data/Flights/0038/Flt0038.kml,,
+39,2017-09-09,El Calafate,SAWC,1259.0,1727.0,4.5,9166.0,35006.0,,,Jim Payne,Tim Gardner,http://localhost/data/Flights/0039/Flt0039AC.xlsx,,http://localhost/data/Flights/0039/Flt0039.kml,,
+40,2017-09-11,El Calafate,SAWC,1044.0,1559.0,5.2,8600.0,36127.0,,,Jim Payne,,http://localhost/data/Flights/0040/Flt0040AC.xlsx,,http://localhost/data/Flights/0040/Flt0040.kml,,
+41,2018-05-06,"Minden, NV",KMEV,900.0,946.0,0.8,10800.0,10800.0,,,Jim Payne,Tim Gardner,http://localhost/data/Flights/0041/Flt0041AC.xlsx,http://localhost/data/Flights/0041/Flt0041UV.xlsx,,,
+42,2018-05-14,"Minden, NV",KMEV,923.0,953.0,0.5,8700.0,8700.0,,,Jim Payne,,http://localhost/data/Flights/0042/Flt0042AC.xlsx,http://localhost/data/Flights/0042/Flt0042UV.xlsx,,,
+43,2018-05-14,"Minden, NV",KMEV,1003.0,1018.0,0.3,7200.0,7200.0,,,Jim Payne,,,,,,
+44,2018-05-14,"Minden, NV",KMEV,1027.0,1040.0,0.2,6900.0,6900.0,,,Jim Payne,,,,,,
+45,2018-05-26,"Minden, NV",KMEV,1028.0,1104.0,0.6,8624.0,8624.0,,TG & MS,Tim Gardner,Morgan Sandercock,http://localhost/data/Flights/0045/Flt0045AC.xlsx,,http://localhost/data/Flights/0045/Flt0045.kml,,
+46,2018-08-13,El Calafate,SAWC,1432.0,1510.0,0.6,11000.0,11000.0,,First Egrett tow,Jim Payne,Tim Gardner,http://localhost/data/Flights/0046/Flt0046AC.xlsx,http://localhost/data/Flights/0046/Flt0046UV.xlsx,http://localhost/data/Flights/0046/Flt0046.kml,,
+47,2018-08-14,El Calafate,SAWC,1500.0,1810.0,3.2,40000.0,40000.0,,first high tow ,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0047/Flt0047AC.xlsb,http://localhost/data/Flights/0047/Flt0047UV.xlsx,,,
+48,2018-08-17,El Calafate,SAWC,1348.0,1650.0,3.0,43800.0,43800.0,,,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0048/Flt0048AC.xlsb,http://localhost/data/Flights/0048/Flt0048UV.xlsx,http://localhost/data/Flights/0048/Flt0048.kml,,
+49,2018-08-20,El Calafate,SAWC,1148.0,1704.0,5.3,42800.0,47200.0,,,Jim Payne,Tim Gardner,http://localhost/data/Flights/0049/Flt0049AC.xlsb,http://localhost/data/Flights/0049/Flt0049UV.xlsx,http://localhost/data/Flights/0049/Flt0049.kml,,
+50,2018-08-26,El Calafate,SAWC,1254.0,1832.0,5.6,42200.0,62000.0,60669.0,,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0050/Flt0050AC.xlsb,http://localhost/data/Flights/0050/Flt0050UV.xlsx,http://localhost/data/Flights/0050/Flt0050.kml,,
+51,2018-08-28,El Calafate,SAWC,1321.0,1829.0,5.1,40200.0,65600.0,63776.0,,Jim Payne,Miguel Iturmendi,http://localhost/data/Flights/0051/Flt0051AC.xlsb,http://localhost/data/Flights/0051/Flt0051UV.xlsx,http://localhost/data/Flights/0051/Flt0051.kml,,
+52,2018-09-02,El Calafate,SAWC,1141.0,1644.0,5.1,44300.0,76100.0,74295.0,altitude record,Jim Payne,Tim Gardner,http://localhost/data/Flights/0052/Flt0052AC.xlsb,http://localhost/data/Flights/0052/Flt0052UV.xlsx,http://localhost/data/Flights/0052/Flt0052.kml,,
+53,2018-09-10,El Calafate,SAWC,1411.0,1714.0,3.0,44100.0,45400.0,,contrail visible,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0053/Flt0053AC.xlsb,http://localhost/data/Flights/0053/Flt0053UV.xlsx,http://localhost/data/Flights/0053/Flt0053.kml,,
+54,2018-09-12,El Calafate,SAWC,1016.0,1303.0,2.8,45100.0,62900.0,,highest tow,Jim Payne,Miguel Iturmendi,http://localhost/data/Flights/0054/Flt0054AC.xlsb,,http://localhost/data/Flights/0054/Flt0054.kml,,
+55,2019-05-28,"Minden, NV",KMEV,1135.0,1210.0,0.6,9800.0,9800.0,,,Jim Payne,Tim Gardner,http://localhost/data/Flights/0055/Flt0055AC.xlsx,http://localhost/data/Flights/0055/Flt0055UV.xlsx,,,http://localhost/data/Flights/0055/Flt0055IMU.zip
+56,2019-05-29,"Minden, NV",KMEV,1132.0,1208.0,0.6,9700.0,9700.0,,,Jim Payne,Morgan Sandercock,,,,,http://localhost/data/Flights/0056/Flt0056IMU.zip
+57,2019-06-01,"Minden, NV",KMEV,1042.0,1128.0,0.8,10700.0,10700.0,,,Jim Payne,Tim Gardner,http://localhost/data/Flights/0057/Flt0057AC.xlsx,http://localhost/data/Flights/0057/Flt0057UV.xlsx,,,
+58,2019-06-03,"Minden, NV",KMEV,933.0,1020.0,0.8,9700.0,9700.0,,,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0058/Flt0058AC.xlsx,http://localhost/data/Flights/0058/Flt0058UV.xlsx,,http://localhost/data/Flights/0058/Flt0058ADP.zip,http://localhost/data/Flights/0058/Flt0058IMU.zip
+59,2019-08-20,El Calafate,SAWC,1216.0,1330.0,1.2,12100.0,12100.0,,functional check,Jim Payne,Miguel Iturmendi,http://localhost/data/Flights/0059/Flt0059AC.xlsx,http://localhost/data/Flights/0059/Flt0059UV.xlsx,http://localhost/data/Flights/0059/Flt0059.kml,http://localhost/data/Flights/0059/Flt0059ADP.csv,http://localhost/data/Flights/0059/Flt0059IMU.zip
+60,2019-02-28,El Calafate,SAWC,1207.0,1554.0,3.8,45500.0,46800.0,,,Jim Payne,Tim Gardner,http://localhost/data/Flights/0060/Flt0060AC.xlsb,http://localhost/data/Flights/0060/Flt0060UV.xlsx,,http://localhost/data/Flights/0060/Flt0060ADP.csv,http://localhost/data/Flights/0060/Flt0060IMU.zip
+61,2019-08-31,El Calafate,SAWC,1037.0,1430.0,3.9,46600.0,56300.0,,,Jim Payne,Miguel Iturmendi,http://localhost/data/Flights/0061/Flt0061AC.xlsb,http://localhost/data/Flights/0061/Flt0061UV.xlsx,http://localhost/data/Flights/0061/Flt0061.kml,http://localhost/data/Flights/0061/Flt0061ADP.csv,http://localhost/data/Flights/0061/Flt0061IMU.zip
+62,2019-09-06,El Calafate,SAWC,1333.0,1636.0,3.1,42000.0,42300.0,,,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0062/Flt0062AC.xlsb,http://localhost/data/Flights/0062/Flt0062UV.xlsx,http://localhost/data/Flights/0062/Flt0062.kml,http://localhost/data/Flights/0062/Flt0062ADP.csv,http://localhost/data/Flights/0062/Flt0062IMU.zip
+63,2019-09-11,El Calafate,SAWC,1235.0,1811.0,5.6,47100.0,50600.0,,tow height record,Jim Payne,Tim Gardner,http://localhost/data/Flights/0063/Flt0063AC.xlsb,http://localhost/data/Flights/0063/Flt0063UV.xlsb,http://localhost/data/Flights/0063/Flt0063.kml,http://localhost/data/Flights/0063/Flt0063ADP.zip,http://localhost/data/Flights/0063/Flt0063IMU.zip
+64,2019-09-14,El Calafate,SAWC,913.0,1230.0,3.3,45100.0,49200.0,,,Jim Payne,Miguel Iturmendi,http://localhost/data/Flights/0064/Flt0064AC.xlsb,http://localhost/data/Flights/0064/Flt0064UV.xlsb,http://localhost/data/Flights/0064/Flt0064.kml,http://localhost/data/Flights/0064/Flt0064ADP.csv,http://localhost/data/Flights/0064/Flt0064IMU.zip
+65,2019-09-17,El Calafate,SAWC,1120.0,1650.0,5.5,51000.0,65000.0,,Last flight of 2019,Jim Payne,Morgan Sandercock,http://localhost/data/Flights/0065/Flt0065AC.xlsx,http://localhost/data/Flights/0065/Flt0065UV.xlsx,http://localhost/data/Flights/0065/Flt0065.kml,http://localhost/data/Flights/0065/Flt0065ADP.zip,http://localhost/data/Flights/0065/Flt0065IMU.zip
