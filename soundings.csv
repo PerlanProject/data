@@ -1,4 +1,4 @@
-kml_file,raw_file,graphs_dir,ts,datetime,year,month,day,time
+kml_file,raw_data,graphs_dir,ts,datetime,year,month,day,time
 http://localhost/data/Soundings/07_14_2017.kml,http://localhost/data/Soundings/07_14_2017.zip,,07_14_2017_0000,2017-07-14 00:00:00,2017,7,14,0000
 http://localhost/data/Soundings/07_16_2017.kml,http://localhost/data/Soundings/07_16_2017.zip,http://localhost/data/Soundings/07_16_2017_Graphs,07_16_2017_0000,2017-07-16 00:00:00,2017,7,16,0000
 ,http://localhost/data/Soundings/07_18_2017.zip,http://localhost/data/Soundings/07_18_2017_Graphs,07_18_2017_0000,2017-07-18 00:00:00,2017,7,18,0000
