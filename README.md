@@ -15,7 +15,10 @@ $ git lfs install
 
 # Update system git config
 $ git lfs install --system
+```
 
+To add new files and directories:
+```sh
 # In each Git repo where you want to use LFS, add the file types (or directly edit .gitattributes)
 $ git lfs track "*.wav" # or whatever files you want
 
